@@ -1,0 +1,16 @@
+2017-06-03 17:37:50,204 [WARN] mycat:[test.cc:test:14]warn message
+2017-06-03 17:37:50,205 [ERROR] mycat:[test.cc:test:15]warn message
+2017-06-03 17:37:50,206 [INFO] mycat:[test.cc:test:16]warn message
+2017-06-03 17:37:50,207 [DEBUG] mycat:[test.cc:test:17]warn message
+2017-06-03 17:54:29,717 [WARN] mycat:[test.cc:test:14]warn message
+2017-06-03 17:54:29,718 [ERROR] mycat:[test.cc:test:15]warn message
+2017-06-03 17:54:29,718 [INFO] mycat:[test.cc:test:16]warn message
+2017-06-03 17:54:29,719 [DEBUG] mycat:[test.cc:test:17]warn message
+2017-06-03 20:16:32,381 [WARN] mycat:[test.cc:test:14]warn message
+2017-06-03 20:16:32,382 [ERROR] mycat:[test.cc:test:15]warn message
+2017-06-03 20:16:32,383 [INFO] mycat:[test.cc:test:16]warn message
+2017-06-03 20:16:32,384 [DEBUG] mycat:[test.cc:test:17]warn message
+2017-06-03 22:01:27,175 [WARN] mycat:[test.cc:test:14]warn message
+2017-06-03 22:01:27,177 [ERROR] mycat:[test.cc:test:15]warn message
+2017-06-03 22:01:27,178 [INFO] mycat:[test.cc:test:16]warn message
+2017-06-03 22:01:27,179 [DEBUG] mycat:[test.cc:test:17]warn message
